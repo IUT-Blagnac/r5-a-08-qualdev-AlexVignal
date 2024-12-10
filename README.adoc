@@ -26,9 +26,9 @@ Feature: Is it Friday yet?
 
 .Tests effectués :
 
-image::1ers-tests.png[width=80%]
-image::2eme-tests.png[width=80%]
-image::test-dernier-exo.PNG[width=80%]
+image::1ers-tests.png[width=70%]
+image::2eme-tests.png[width=70%]
+image::test-dernier-exo.PNG[width=70%]
 
 
 
